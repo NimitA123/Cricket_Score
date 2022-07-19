@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CricketScore</string>
+    <string name="bowl">Bowl</string>
+    <string name="score">Score:</string>
+    <string name="_5">5</string>
+    <string name="ns_nodhi">NS Nodhi</string>
+    <string name="kirat_bohli">Kirat Bohli</string>
+    <string name="runs">Runs</string>
+    <string name="_80">80</string>
+    <string name="overs">Overs:</string>
+</resources>
